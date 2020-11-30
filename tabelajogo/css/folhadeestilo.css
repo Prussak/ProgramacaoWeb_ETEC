@@ -1,0 +1,17 @@
+table, td{
+border: 2px solid black;
+width: 500px;
+}
+
+th{       
+padding-left: 45%; 
+width: auto;
+}
+
+tr{
+text-align: center;
+color: blue;
+}
+h1{
+color:#044104;
+}
